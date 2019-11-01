@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://120.27.16.240/ss/ss.ipa</string>// ipa地址
+                    <string>http://47.52.74.112/ss/ss.ipa</string>// ipa地址
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://120.27.16.240/ss/icon.png</string>
+                    <string>http://47.52.74.112/ss/icon.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://120.27.16.240/ss/ss.png</string>
+                    <string>http://47.52.74.112/ss/ss.png</string>
                 </dict>
             </array>
             <key>metadata</key>
